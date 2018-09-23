@@ -49,3 +49,4 @@ class accessme : public eosio::contract {
 
 // specify the contract name, and export a public action: update
 EOSIO_ABI( accessme, (createnugget) )
+
